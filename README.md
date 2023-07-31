@@ -1,5 +1,13 @@
 # Foundations of Data Analytics
 Explorations into the foundations of data analytics powered by APL.
+
+This repository contains
+
+- .Ipynb Jupyter notebooks
+- APL functions
+- APL workspaces
+- Articles for reference
+
 ____________________________________________________________________
 
 Throughout the various segments of these explorations we will maintain the hypothesis that we deal with objects which must be able to be computed. Computations involve arithmetic and arithmetic's generalization in algebra. A calculus must somehow be based on arithmetic and algebra to be computationally feasible. 
